@@ -22,11 +22,22 @@ Welcome to the Zest Management Portal used in SHRI RAM MURTI SAMRAK COLLEGE OF E
 
 ## Heading 2 ##
 
-    Markup :  ## Heading 2 ##
-
-    -OR-
-
-    Markup: --------------- (below H2 text)
+    Markup :  ## To Visit Dasboard ##
+    
+    go to the following URL: http://localhost/zest/regportal
+    
+    -Login id & Pass-
+ 
+    For
+      * Admin:
+           * id: admin@zest.com
+           * password: admin222k
+      * Judgement:
+           * id: judgement@zest.com
+           * password: jczest
+      * User: 
+           * id: user@zest.com
+           * password: user
 
 NOTE: If you encounter any issues during the installation process or while using the portal, please consult the documentation included with the source code or contact the developer for assistance.
 
