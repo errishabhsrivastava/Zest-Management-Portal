@@ -2,7 +2,7 @@
 
 Welcome to the Zest Management Portal used in SHRI RAM MURTI SAMRAK COLLEGE OF ENGINEERING AND TECHNOLOGY , BAREILLY for Zest 2022. This portal is designed to manage the various events and activities that take place during Zest 2022 , and it is built using PHP and XAMPP.
 
-* INSTALLATION STEPS:
+# INSTALLATION STEPS:
 
 1. First, you need to download and install XAMPP on your computer. You can download it from the official Apache Friends website (https://www.apachefriends.org/index.html).
 
