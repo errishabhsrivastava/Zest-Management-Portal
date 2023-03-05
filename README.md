@@ -22,7 +22,7 @@ Welcome to the Zest Management Portal used in SHRI RAM MURTI SAMRAK COLLEGE OF E
 
 NOTE: If you encounter any issues during the installation process or while using the portal, please consult the documentation included with the source code or contact the developer for assistance.
 
-Few Sample Screen Shot:
+# ScreenShots
 
 ![image](https://user-images.githubusercontent.com/117577787/222943066-07d7988e-ab31-47d3-9ef8-d21c1037987a.png)
 ![image](https://user-images.githubusercontent.com/117577787/222942996-90536f1d-60dc-4f5d-9254-cbc8ba5a6d35.png)
