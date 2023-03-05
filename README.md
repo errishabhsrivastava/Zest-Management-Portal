@@ -20,6 +20,14 @@ Welcome to the Zest Management Portal used in SHRI RAM MURTI SAMRAK COLLEGE OF E
 
 8. You should now be able to access the Zest Management Portal and begin using it to manage the various events and activities that take place during Zest 2022.
 
+## Heading 2 ##
+
+    Markup :  ## Heading 2 ##
+
+    -OR-
+
+    Markup: --------------- (below H2 text)
+
 NOTE: If you encounter any issues during the installation process or while using the portal, please consult the documentation included with the source code or contact the developer for assistance.
 
 # ScreenShots
