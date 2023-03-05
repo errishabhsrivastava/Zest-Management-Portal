@@ -4,23 +4,25 @@ Welcome to the Zest Management Portal used in College SRMS CET for Zest 2022. Th
 
 INSTALLATION STEPS:
 
-First, you need to download and install XAMPP on your computer. You can download it from the official Apache Friends website (https://www.apachefriends.org/index.html).
+“*” First, you need to download and install XAMPP on your computer. You can download it from the official Apache Friends website (https://www.apachefriends.org/index.html).
 
-Once you have installed XAMPP, you need to start the Apache and MySQL services.
+“*” Once you have installed XAMPP, you need to start the Apache and MySQL services.
 
-Download the Zest Management Portal source code and extract it to the "htdocs" folder in your XAMPP installation directory. You can download it from the GitHub repository (https://github.com/username/repo).
+“*” Download the Zest Management Portal source code and extract it to the "htdocs" folder in your XAMPP installation directory. You can download it from the GitHub repository (https://github.com/username/repo).
 
-Open the XAMPP control panel and click on the "Admin" button next to the MySQL service to open phpMyAdmin.
+“*” Open the XAMPP control panel and click on the "Admin" button next to the MySQL service to open phpMyAdmin.
 
-Create a new database named "zest2022" by clicking on the "New" button on the left-hand side of the phpMyAdmin interface. Select "utf8_general_ci" as the collation.
+“*” Create a new database named "zest2022" by clicking on the "New" button on the left-hand side of the phpMyAdmin interface. Select "utf8_general_ci" as the collation.
 
-Import the SQL file included with the Zest Management Portal source code into the "zest2022" database. You can do this by clicking on the "Import" tab in phpMyAdmin, selecting the SQL file, and clicking on the "Go" button.
+“*” Import the SQL file included with the Zest Management Portal source code into the "zest2022" database. You can do this by clicking on the "Import" tab in phpMyAdmin, selecting the SQL file, and clicking on the "Go" button.
 
-Once you have imported the SQL file, open a web browser and go to the following URL: http://localhost/zest/zest22/
+“*” Once you have imported the SQL file, open a web browser and go to the following URL: http://localhost/zest/zest22/
 
-You should now be able to access the Zest Management Portal and begin using it to manage the various events and activities that take place during Zest 2022.
+“*” You should now be able to access the Zest Management Portal and begin using it to manage the various events and activities that take place during Zest 2022.
 
 NOTE: If you encounter any issues during the installation process or while using the portal, please consult the documentation included with the source code or contact the developer for assistance.
+
+Few Sample Screen Shot:
 
 ![image](https://user-images.githubusercontent.com/117577787/222943066-07d7988e-ab31-47d3-9ef8-d21c1037987a.png)
 ![image](https://user-images.githubusercontent.com/117577787/222942996-90536f1d-60dc-4f5d-9254-cbc8ba5a6d35.png)
